@@ -12,8 +12,6 @@ Talk to me about:
 - Computer Graphics
 - Game development
 
-
-![](https://github.com/lalasray/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/lalasray/github-stats/blob/master/generated/languages.svg)
 
 
