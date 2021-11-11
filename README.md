@@ -14,6 +14,8 @@ Talk to me about:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalasray&layout=compact)
 
+![](https://github.com/lalasray/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/lalasray/github-stats/blob/master/generated/languages.svg)
 
 
 <!---
