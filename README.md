@@ -12,7 +12,11 @@ Talk to me about:
 - Computer Graphics
 - Game development
 
-![](https://github.com/lalasray/github-stats/blob/master/generated/languages.svg)
+1
+2
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=lalasray&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lalasray&langs_count=5&theme=tokyonight)]()
+
 
 
 <!---
