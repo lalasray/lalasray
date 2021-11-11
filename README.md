@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-lala-blue)](https://www.linkedin.com/in/lala-shakti-swarup-ray/) [![Gmail Badge](https://img.shields.io/badge/Gmail-lala-red)](mailto:lalashakti96@gmail.com)
 
-I am Lala 😃. I am from India and currently doing my M.Sc from TU Kaiserslaautern 🏫. I love to explore and learn about new things.
+I am Lala 😃. I am from India and currently doing my M.Sc from TU Kaiserslautern 🏫. I love to explore and learn about new things.
 ## ⚡ Technologies
 Talk to me about:
 - Machine Learning
