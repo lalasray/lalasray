@@ -7,7 +7,7 @@
 I am Lala. I am currently doing my M.Sc from TU Kaiserslautern specializing in intelligent systems. I love to explore and learn about new stuffs.
 ## ⚡ Technologies
 Talk to me about:
-- Machine Learning
+- Deep Learning
 - Computer Vision
 - Computer Graphics
 - Game development
