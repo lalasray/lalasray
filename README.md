@@ -12,7 +12,7 @@ Talk to me about:
 - Computer Graphics
 - Game development
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalasray&langs_count=10)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalasray&langs_count=8)](lalasray)
 
 
 
