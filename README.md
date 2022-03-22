@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-lala-blue)](https://www.linkedin.com/in/lala-shakti-swarup-ray/) [![Gmail Badge](https://img.shields.io/badge/Gmail-lala-red)](mailto:lalashakti96@gmail.com)
 
-I am Lala, currently a M.Sc from TU Kaiserslautern specializing in intelligent systems. I love to explore and learn about new stuffs.
+I am Lala, currently a M.Sc student at TU Kaiserslautern specializing in intelligent systems. I love to explore and learn about new stuffs.
 ## ⚡ Technologies
 Talk to me about:
 - Deep Learning
